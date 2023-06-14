@@ -180,7 +180,7 @@ button:hover {
 
 /*Footer*/
 footer {
-    height: 24rem;
+    height: 27rem;
     background: hsl(192, 100%, 9%);
     color: white;
     font-family: 'Open Sans', sans-serif;
@@ -191,9 +191,8 @@ footer a {
     color: white;
 }
 .footer-image {
-    margin-bottom: -2%;
+    margin-bottom: -1%;
     width: 100%;
-    height: 10%;
 }
 .main-footer {
     display: flex;
